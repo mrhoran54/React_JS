@@ -1,0 +1,31 @@
+{
+  "name": "minerva_takehome",
+  "version": "1.0.0",
+  "description": "a simple API for thisforthat_mh website",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrhoran54/React_JS.git"
+  },
+  "keywords": [
+    "React",
+    "API",
+    "Node"
+  ],
+  "author": "mrhoran54",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrhoran54/React_JS/issues"
+  },
+  "homepage": "https://github.com/mrhoran54/React_JS#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.7"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.3.14"
+  }
+}
