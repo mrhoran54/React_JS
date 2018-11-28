@@ -1,4 +1,4 @@
-# Minerva Technical Assessment
+
 
 So my task for this project was to make a clone of  http://itsthisforthat.com.
 
